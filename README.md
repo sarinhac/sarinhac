@@ -3,8 +3,9 @@
 I'm a brazilian backend developer, living in Portugal. 
 <div align="center">
   <a href="https://github.com/sarinhac">
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=sarinhac&show_icons=true&theme=radical)"/>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarinhac&layout=compact&langs_count=7&theme=jolly"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=sarinhac&theme=radical&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarinhac&theme=radical&hide_border=false"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarinhac&theme=radical&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 
 ## 🔭 I’m currently working with:
