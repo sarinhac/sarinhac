@@ -5,9 +5,10 @@ I'm a brazilian backend developer, living in Portugal.
 <div style="display: inline_block>
   <a href="https://github.com/sarinhac">
   <img align-content="stretch" width="33%" src="https://github-readme-stats.vercel.app/api?username=sarinhac&theme=radical&show_icons=true&hide_border=false&count_private=true"/>
-  <!--<img align-content="stretch" width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarinhac&theme=radical&hide_border=false"/> -->
+  <img align-content="stretch" width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarinhac&theme=radical&hide_border=false"/>
    <img align-content="stretch" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarinhac&theme=radical&show_icons=true&hide_border=false&layout=compact"/> 
 </div>
+
 ## 🔭 I’m currently working with:
 <div style="display: inline_block">
   <img align="center" alt="Sarah-DotNet" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
