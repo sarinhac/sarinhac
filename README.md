@@ -22,7 +22,6 @@ I'm a brazilian backend developer, living in Portugal.
 
 ## 🌱 I’m currently learning:
 <div style="display: inline_block">
-  <img align="center" alt="Sarah-Xamarin" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg">
   <img align="center" alt="Sarah-Docker" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="Sarah-Docker" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
 </div>
